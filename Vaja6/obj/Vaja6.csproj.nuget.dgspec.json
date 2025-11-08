@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaka.koren\\Source\\Repos\\OPR---VAJA06\\Vaja6\\Vaja6.csproj": {}
+    "C:\\Users\\matij\\Source\\Repos\\MATIJA_CIGLAR_VAJA06\\Vaja6\\Vaja6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaka.koren\\Source\\Repos\\OPR---VAJA06\\Vaja6\\Vaja6.csproj": {
+    "C:\\Users\\matij\\Source\\Repos\\MATIJA_CIGLAR_VAJA06\\Vaja6\\Vaja6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaka.koren\\Source\\Repos\\OPR---VAJA06\\Vaja6\\Vaja6.csproj",
+        "projectUniqueName": "C:\\Users\\matij\\Source\\Repos\\MATIJA_CIGLAR_VAJA06\\Vaja6\\Vaja6.csproj",
         "projectName": "Vaja6",
-        "projectPath": "C:\\Users\\jaka.koren\\Source\\Repos\\OPR---VAJA06\\Vaja6\\Vaja6.csproj",
-        "packagesPath": "C:\\Users\\jaka.koren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaka.koren\\Source\\Repos\\OPR---VAJA06\\Vaja6\\obj\\",
+        "projectPath": "C:\\Users\\matij\\Source\\Repos\\MATIJA_CIGLAR_VAJA06\\Vaja6\\Vaja6.csproj",
+        "packagesPath": "C:\\Users\\matij\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matij\\Source\\Repos\\MATIJA_CIGLAR_VAJA06\\Vaja6\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jaka.koren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\matij\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
