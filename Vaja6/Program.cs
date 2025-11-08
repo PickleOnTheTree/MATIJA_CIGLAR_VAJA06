@@ -9,10 +9,10 @@ namespace vaja6 {
 
 	// Se en komentar
     class Igralec {
-        public int id; "edinstvena oznaka igralca"
-        public string u_ime; "ime igralca"
-        public string u_geslo; "geslo za prijavo"
-        public static int stIg = 1; "stevilo igralcev"
+        public int id; //edinstvena oznaka igralca
+        public string u_ime; //ime igralca
+        public string u_geslo; //geslo za prijavo
+        public static int stIg = 1; //stevilo igralcev
 
         public Igralec() {
             u_ime = "";
